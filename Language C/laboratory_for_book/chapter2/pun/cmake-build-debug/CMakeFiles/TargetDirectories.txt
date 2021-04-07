@@ -1,0 +1,3 @@
+/Users/guojinchao/Documents/01-self_project_1/github_YaoandShun/Laboratory/Language C/laboratory_for_book/chapter2/pun/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/guojinchao/Documents/01-self_project_1/github_YaoandShun/Laboratory/Language C/laboratory_for_book/chapter2/pun/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/guojinchao/Documents/01-self_project_1/github_YaoandShun/Laboratory/Language C/laboratory_for_book/chapter2/pun/cmake-build-debug/CMakeFiles/chapter2.dir

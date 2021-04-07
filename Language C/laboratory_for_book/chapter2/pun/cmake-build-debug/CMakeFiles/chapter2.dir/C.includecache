@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/guojinchao/Documents/01-self_project_1/github_YaoandShun/Laboratory/Language C/laboratory_for_book/chapter2/pun/main.c
+stdio.h
+-
+

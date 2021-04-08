@@ -1,9 +1,9 @@
 # Laboratory
 
-In order to experiment the technical feasibility, practice and consolidate the foundation.
+In order to experiment with the technical feasibility, practice and consolidate the foundation.
 
-This folder will incloude some books I learned, and some notes I think it maybe useful or experiments from these books.
+This repository will include some books I read, some notes I think may be useful, or experiments from these books.
 
 Always a pupil in code.
 
-Thank for your watching :)
+Thanks for your reading :)

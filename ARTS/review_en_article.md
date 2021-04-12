@@ -10,3 +10,16 @@
 
 ready read this article😁
 
+
+
+How to find English article
+
+1. google what you want to learn
+2. action
+3. pick out one
+
+
+
+update sequence
+
+1. new on the top

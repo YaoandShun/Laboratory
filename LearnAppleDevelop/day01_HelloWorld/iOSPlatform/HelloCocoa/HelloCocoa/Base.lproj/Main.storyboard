@@ -33,7 +33,7 @@
                                     </attributedString>
                                 </state>
                                 <connections>
-                                    <action selector="showAlert:" destination="BYZ-38-t0r" eventType="touchUpInside" id="c5T-1z-dgN"/>
+                                    <action selector="helloButtonTapped:" destination="BYZ-38-t0r" eventType="touchUpInside" id="SKH-xY-sDy"/>
                                 </connections>
                             </button>
                         </subviews>
@@ -44,7 +44,7 @@
                         </accessibility>
                     </view>
                     <connections>
-                        <outlet property="helloButton" destination="kTl-2e-Mlr" id="Lo5-52-FGQ"/>
+                        <outlet property="helloButton" destination="kTl-2e-Mlr" id="DyK-Ma-K8Y"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>

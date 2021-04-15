@@ -2,13 +2,11 @@ import UIKit
 
 var str = "Hello, playground"
 
-let someConstant: Int
 
+var a:Int! = 3
+a = nil
 
+a=2
+var b = 2
+b = a+2
 
-
-
-
-var someVariable:Int
-someVariable = 1
-print(someVariable)

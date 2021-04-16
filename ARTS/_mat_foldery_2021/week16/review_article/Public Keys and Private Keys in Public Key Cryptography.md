@@ -21,4 +21,12 @@
   - n. 方式 态度 举止
 - asymmetric
   - adj. 不对称
+- guarding
+  - 守卫
 
+- is comprised of
+  - 由...构成
+
+- the intended recipient
+  - 预期的收件人
+  - 故意的...

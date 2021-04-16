@@ -8,6 +8,15 @@
 
 [Public Keys and Private Keys in Public Key Cryptography](https://sectigo.com/resource-library/public-key-vs-private-key)
 
+
+
+May be the best way is read twice
+
+- First comprehend
+- Second mark and record worlds that unknown
+
+
+
 ready read this article😁
 
 

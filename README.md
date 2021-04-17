@@ -34,6 +34,11 @@ Thank for your watching :)
 
    2. Guys can see learning materials in .xmind's References
 
+5. **DatabaseDesign**
+   1. Some notes for learning database design
+
+   2. Material come from internet
+
 ---
 
 

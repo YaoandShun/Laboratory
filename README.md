@@ -31,3 +31,6 @@ Thank for your watching :)
    2. Some cases or notes for this study journey
       1. I really want to develop a macOS app😂, because I always want some small tools but can't find in macOS platform
 
+---
+
+""修正了袖章个"

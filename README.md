@@ -9,12 +9,11 @@ Always a pupil in code way.
 Thank for your watching :)
 
 
-
 ---
 
 
 
-**Currently, this repo contains the following directions**
+## Currently, this repo contains the following directions
 
 1. **ARTS(want frequency is the following one per week)**
    1. Algorithm
@@ -22,24 +21,19 @@ Thank for your watching :)
    3. Technique tips [from work]
    4. Share [for share my personal values]
    
-3. **Language** C
+2. **Language** C
    1. Book: 【C 语言程序设计：现代方法 第二版】
    2. Some case or notes for learning language C
    
-5. **LearnAppleDevelop**
+3. **LearnAppleDevelop**
    1. Book: 【[Swift与Cocoa框架开发]】...A little old, but enough to get started
    2. Some cases or notes for this study journey
       1. I really want to develop a macOS app😂, because I always want some small tools but can't find in macOS platform
+4. **Git**
+   1. Some learning track from git
+
+   2. Guys can see learning materials in .xmind's References
 
 ---
 
 
-asdnalksdnaklndlkasnd
-
-
-main
-
-
-asldalksdnalkdnlk
-
-test_git_commands

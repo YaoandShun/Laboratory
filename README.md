@@ -13,7 +13,7 @@ Thank for your watching :)
 
 
 
-## Currently, this repo contains the following directions
+## Currently, this repo contains the following direction
 
 1. **ARTS(want frequency is the following one per week)**
    1. Algorithm
@@ -29,6 +29,7 @@ Thank for your watching :)
    1. Book: 【[Swift与Cocoa框架开发]】...A little old, but enough to get started
    2. Some cases or notes for this study journey
       1. I really want to develop a macOS app😂, because I always want some small tools but can't find in macOS platform
+   3. Javascript First
 4. **Git**
    1. Some learning track from git
 
@@ -38,6 +39,9 @@ Thank for your watching :)
    1. Some notes for learning database design
 
    2. Material come from internet
+
+6. **JavaScript**
+   1. Learning javasript
 
 ---
 

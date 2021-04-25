@@ -1,0 +1,2 @@
+- apply-javascript.html 为什么不起作用？
+- button 少写了 s, 看调试笔记就好了

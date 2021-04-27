@@ -55,47 +55,85 @@
         console.log("randomNunmber:"+randomNumber)
         console.log('guessField:'+guessField.value)
         let guessCount=1
-        guesses.textContent = "你上次猜的数字："
+        let resetButton
 
+
+        
+
+        
         function checkGuess(){
+            
             
             userguess = Number(guessField.value)
             console.log(userguess)
             console.log(guessField.value)
             
             if(guessCount<=10){
+
+                if(guessCount===1){
+                    guesses.textContent = "你上次猜的数字："
+                }
+                guesses.textContent += userguess+", "
+                
                 // 回答正确的逻辑
                 if(randomNumber===userguess){
                     lastResult.textContent = "你猜对啦！答案是："+userguess
                     lastResult.style.backgroundColor = "green"
+                    lowOrHi.textContent = ""
+                    // setGameOver()
                 }else if(userguess>randomNumber){
-                    guesses.textContent+=userguess+", "
                     lastResult.textContent = "你猜错了"
                     lastResult.style.backgroundColor = "red"
                     lowOrHi.textContent = '你猜高了'
+                    cleanLastAnswer()
                 }else if(userguess<randomNumber){
-                    guesses.textContent+=userguess+", "
                     lastResult.textContent = "你猜错了"
                     lastResult.style.backgroundColor = "red"
                     lowOrHi.textContent = '你猜低了'
+                    cleanLastAnswer()
                 }
+
             guessCount++
             }else{
                 console.log('你已经猜了十次了！！！！')
                 lastResult.textContent = '你已经猜了十次了！！！！'
                 lastResult.style.backgroundColor = "brown"
+                guessField.disabled = true;
+                // guessField.display = false;
+                guessSubmit.disabled = true;
                 setGameOver()
             }
         }
         guessSubmit.addEventListener('click',checkGuess)
         
 
+        function cleanLastAnswer(){
+            guessField.value=""
+            guessField.focus()
+        }
+
+
+
         function setGameOver(){
+            resetButton = document.createElement('button')
+            resetButton.textContent='重新开始'
+            document.body.appendChild(resetButton)
+            resetButton.addEventListener('click',setGameOver)
+            
             lastResult.textContent = ""
             guesses.textContent=""
             lastResult.style.backgroundColor = "white"
             lastResult.display = false
             lowOrHi.textContent = ''
+
+            guessField.value=""
+            guessField.focus()
+            guessCount=1
+            resetButton.parentNode.removeChild(resetButton)
+
+            guessField.disabled = false;
+            guessSubmit.disabled = false;
+            guessField.focus()
 
         }
 

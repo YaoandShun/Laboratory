@@ -39,7 +39,7 @@
       <p class="lastResult"></p>
       <p class="lowOrHi"></p>
     </div>
-    
+
 
     <script>
       let randomNumber = Math.floor(Math.random() * 100) + 1;
@@ -50,6 +50,8 @@
       const guessField = document.querySelector('.guessField');
       let guessCount = 1;
       let resetButton;
+
+      console.log(randomNumber)
 
       function checkGuess() {
         let userGuess = Number(guessField.value);

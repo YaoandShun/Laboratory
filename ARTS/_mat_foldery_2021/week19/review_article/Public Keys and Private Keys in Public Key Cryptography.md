@@ -1,0 +1,32 @@
+- infrastructure
+  - 基础设施
+- identity
+  - 身份
+- cryptography
+  - 密码学
+  - cryptographic
+    - adj. 密码学的
+- encryption
+  - 加密
+- decrypt
+  - 解密
+- mechanism
+  - 机制
+- relies upon
+  - 依赖
+
+- Pairing
+  - n. 配对
+- manner
+  - n. 方式 态度 举止
+- asymmetric
+  - adj. 不对称
+- guarding
+  - 守卫
+
+- is comprised of
+  - 由...构成
+
+- the intended recipient
+  - 预期的收件人
+  - 故意的...

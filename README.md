@@ -8,10 +8,7 @@ Always a pupil in code way.
 
 Thank for your watching :)
 
-
 ---
-
-
 
 ## Currently, this repo contains the following direction
 
@@ -20,11 +17,11 @@ Thank for your watching :)
    2. Review [for English article]
    3. Technique tips [from work]
    4. Share [for share my personal values]
-   
+
 2. **Language** C
    1. Book: 【C 语言程序设计：现代方法 第二版】
    2. Some case or notes for learning language C
-   
+
 3. **LearnAppleDevelop**
    1. Book: 【[Swift与Cocoa框架开发]】...A little old, but enough to get started
    2. Some cases or notes for this study journey
@@ -44,5 +41,3 @@ Thank for your watching :)
    1. Learning javasript
 
 ---
-
-

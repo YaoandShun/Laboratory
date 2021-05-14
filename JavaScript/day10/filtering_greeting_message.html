@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Exercise01_Filtering_greeting_message</title>
+</head>
+
+<body>
+    <div class="output">
+
+        <ul>
+            <li>Happy Birthday!</li>
+            <li>Merry Christmas my love</li>
+            <li>A happy Christmas to all the family</li>
+            <li>You're all I want for Christmas</li>
+            <li>Get well soon</li>
+        </ul>
+
+    </div>
+
+    <script>
+        const list = document.querySelector('.output ul');
+        list.innerHTML = '';
+        let greetings = ['Happy Birthday!',
+            'Merry Christmas my love',
+            'A happy Christmas to all the family',
+            'You\'re all I want for Christmas',
+            'Get well soon'];
+
+        for (let i = 0; i < greetings.length; i++) {
+            let input = greetings[i];
+            // Your conditional test needs to go inside the parentheses
+            // in the line below, replacing what's currently there
+            if (input.indexOf('Christmas')!==-1){
+                let listItem = document.createElement('li');
+                listItem.textContent = input;
+                // list 就是原来显示节点的位置的元素
+                list.appendChild(listItem);
+                
+            }
+            
+            // if (greetings[i]) {
+            //     let listItem = document.createElement('li');
+            //     listItem.textContent = input;
+            //     list.appendChild(listItem);
+            // }
+        }
+    </script>
+</body>
+
+</html>

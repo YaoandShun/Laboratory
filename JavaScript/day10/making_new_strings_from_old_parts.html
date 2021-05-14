@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <div class="output" style="min-height: 125px;">
+
+        <ul><li>MAN675847583748sjt567654;Manchester Piccadilly</li><li>GNF576746573fhdg4737dh4;Greenfield</li><li>LIV5hg65hd737456236dch46dg4;Liverpool Lime Street</li><li>SYB4f65hf75f736463;Stalybridge</li><li>HUD5767ghtyfyr4536dh45dg45dg3;Huddersfield</li></ul>
+        
+        </div>
+
+
+
+    <script>
+        const list = document.querySelector('.output ul');
+        list.innerHTML = '';
+        let stations = ['MAN675847583748sjt567654;Manchester Piccadilly',
+            'GNF576746573fhdg4737dh4;Greenfield',
+            'LIV5hg65hd737456236dch46dg4;Liverpool Lime Street',
+            'SYB4f65hf75f736463;Stalybridge',
+            'HUD5767ghtyfyr4536dh45dg45dg3;Huddersfield'];
+
+        for (let i = 0; i < stations.length; i++) {
+            let input = stations[i];
+            // write your code just below here
+            threeLetterName = input.slice(0,3)
+            referencePointIndex = input.indexOf(';')
+            humanReadableName = input.slice(referencePointIndex+1)
+            final = threeLetterName+': '+humanReadableName
+
+
+            let result = final;
+            let listItem = document.createElement('li');
+            listItem.textContent = result;
+            list.appendChild(listItem);
+        }
+
+            
+        
+
+
+    </script>
+</body>
+
+</html>

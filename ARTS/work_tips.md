@@ -1,5 +1,10 @@
 # 2021
 
+| Title                                                        | empty | Week    | 序号 |
+| ------------------------------------------------------------ | ----- | ------- | ---- |
+| [「关于初识如何阅读源码」](https://istw7xze8e.feishu.cn/docs/doccnR8Rj41YRCRSI9VtcJaoICc#xxYuD2) |       | ✅week19 | 001  |
+|                                                              |       | 🆚week20 | 002  |
+
 
 
 
@@ -73,4 +78,65 @@ https://blog.csdn.net/qq_34861341/article/details/102885211
 
 - 「关于初识如何阅读源码」
 - https://istw7xze8e.feishu.cn/docs/doccnR8Rj41YRCRSI9VtcJaoICc#xxYuD2
+
+
+
+
+
+## ✅week20-002
+
+[How do I determine file encoding in OS x](https://stackoverflow.com/questions/539294/how-do-i-determine-file-encoding-in-os-x)
+
+```bash
+:~ guojinchao$ file -I /Users/guojinchao/Downloads/a.txt
+>>>
+/Users/guojinchao/Downloads/a.txt: text/plain; charset=iso-8859-1
+```
+
+mac 查看文件的 编码类型
+
+
+
+
+
+**数据库第二范式的体现**
+
+设计数据库的表还是需要「范式」，使用「范式」可以让数据库的结构设计更清晰，以后问题也会少很多。
+
+案例：
+
+背景：比如是 「订单系统」，订单系统有 针对订单的 售后记录，每个「问题订单」有 责任方，责任方 负责人不一定是同一个人，因为有很多人 在「处理订单」，不同订单，责任方负责人是会不一样的。
+
+> - 对象
+>
+>   - 责任方
+>   - 售后记录
+>   - 责任方负责人( 随着售后记录不一样，责任方的负责人也会不一样 )
+>
+>   
+>
+> - 「责任方负责人」相关的「主键」其实是 「责任方+售后记录」
+>
+>   - 所以👆「责任方+售后记录」要单独建一张表
+>   - ✅否则就违反了 **数据库设计「第二范式」**
+
+
+
+### **references**
+
+> 3.
+
+> 数据库范式概念「解析」（第一范式，第二范式，第三范式）
+
+> https://www.jianshu.com/p/cc51ce61f798
+
+> ✅
+
+> 第二范式（2NF）和第三范式（3NF）的概念很容易混淆
+
+> 区分它们的关键点在于
+
+> **2NF：「非主键列」是否「完全依赖」于「主键」，****还是「依赖」于「主键的一部分」，一部分就要重新编排一下**
+
+> 3NF：「非主键列」是「直接依赖」于「主键」，还是「直接依赖」于「非主键」列。
 

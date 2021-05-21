@@ -3,7 +3,7 @@
 | Title                                                        | empty | Week    | 序号 |
 | ------------------------------------------------------------ | ----- | ------- | ---- |
 | [「关于初识如何阅读源码」](https://istw7xze8e.feishu.cn/docs/doccnR8Rj41YRCRSI9VtcJaoICc#xxYuD2) |       | ✅week19 | 001  |
-|                                                              |       | 🆚week20 | 002  |
+| [关于数据库范式的体会](#week20-002) |       | ✅week20 | 002  |
 
 
 

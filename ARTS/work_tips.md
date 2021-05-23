@@ -3,7 +3,8 @@
 | Title                                                        | empty | Week    | 序号 |
 | ------------------------------------------------------------ | ----- | ------- | ---- |
 | [「关于初识如何阅读源码」](https://istw7xze8e.feishu.cn/docs/doccnR8Rj41YRCRSI9VtcJaoICc#xxYuD2) |       | ✅week19 | 001  |
-| [关于数据库范式的体会](#week20-002) |       | ✅week20 | 002  |
+| [关于数据库范式的体会](#✅week20-002)                         |       | ✅week20 | 002  |
+| [python, json max size, mardown](#✅week21-003)               |       | ✅week21 | 003  |
 
 
 
@@ -139,4 +140,42 @@ mac 查看文件的 编码类型
 > **2NF：「非主键列」是否「完全依赖」于「主键」，****还是「依赖」于「主键的一部分」，一部分就要重新编排一下**
 
 > 3NF：「非主键列」是「直接依赖」于「主键」，还是「直接依赖」于「非主键」列。
+
+
+
+## ✅week21-003
+
+### 1. Python 包 和 文件夹的不同
+
+**一句话总结：主要跟「导入-import」相关**
+
+主要是 python2.7 以前 没有 init文件 不能 用 . 导入，python3.3 以后不管有没有 init 文件 都能 import
+
+> https://stackoverflow.com/questions/57317624/difference-between-directory-and-python-package-in-pycharm
+
+![img](pic/009.png)
+
+ 
+
+ 
+
+ 
+
+### 2. Json Max Size
+
+一句话总结：没有限制，由服务器自行配置设置
+
+https://stackoverflow.com/questions/1262376/is-there-a-limit-on-how-much-json-can-hold
+
+![avator](pic/010.png)
+
+
+
+### 3. markdown 链接到标题
+
+> https://stackoverflow.com/questions/6695439/how-to-link-to-a-named-anchor-in-multimarkdown
+
+例如👇
+
+`[python, 编程语言, json max size, mardown](#✅week21-003)`
 

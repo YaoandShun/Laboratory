@@ -4,6 +4,7 @@
 | ------------------------------------------------------------ | ----------------------------- | ------- | ---- |
 | [3 Tools to Track and Visualize the Execution of your Python Code](https://towardsdatascience.com/3-tools-to-track-and-visualize-the-execution-of-your-python-code-666a153e435e) |                               | ✅week19 | 001  |
 | [A Beginner-Friendly Introduction to Containers, VMs and Docker](https://medium.com/free-code-camp/a-beginner-friendly-introduction-to-containers-vms-and-docker-79a9e3e119b) | 目前阅读速度：英语母语的 1/12 | ✅week20 | 002  |
+| [docker-getting started](https://docs.docker.com/get-started/) | [link](#✅week21(30min)--003)  | ✅week21 | 003  |
 
 
 
@@ -77,3 +78,15 @@ Awesome tools for debugging!
 **conclusion**
 
 文章主要阐述了 虚拟机 和 docker 容器 的运行机制，以及原理上的不同，还有各自的优势劣势，讲的非常清晰明了，有需要的同学可以好好看一看，对以后使用 docker 一定也有更好的认识和深入。
+
+
+
+
+
+## ✅week21(30min)--003
+
+根据指导 学习 docker
+
+安装了 docker app
+
+使用了 docker 的一些命令

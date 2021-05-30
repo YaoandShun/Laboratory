@@ -5,6 +5,7 @@
 | [「关于初识如何阅读源码」](https://istw7xze8e.feishu.cn/docs/doccnR8Rj41YRCRSI9VtcJaoICc#xxYuD2) |       | ✅week19 | 001  |
 | [关于数据库范式的体会](#✅week20-002)                         |       | ✅week20 | 002  |
 | [python, json max size, mardown](#✅week21-003)               |       | ✅week21 | 003  |
+| [python, json max size, mardown](#✅week22-004)               |       | ✅week22 | 004  |
 
 
 
@@ -179,3 +180,31 @@ https://stackoverflow.com/questions/1262376/is-there-a-limit-on-how-much-json-ca
 
 `[python, 编程语言, json max size, mardown](#✅week21-003)`
 
+
+
+
+
+
+## ✅week22-004
+
+### 1. Json 格式化校验
+Json 格式化校验，可以显示哪行错了
+https://www.bejson.com/
+
+搜索来源
+https://www.google.com/search?q=json+%E6%A0%BC%E5%BC%8F%E5%8C%96&oq=json&aqs=chrome.3.69i57j69i59l2j0i131i433j69i65l3j69i61.3189j0j7&sourceid=chrome&ie=UTF-8
+
+
+
+
+### 2.	防止字典键值对不存在
+https://www.runoob.com/python/python-dictionary.html
+![avator](pic/012.png)
+
+
+
+
+### 3. Navicat 如何查看 外键
+
+https://stackoverflow.com/questions/9748698/table-relations-in-navicat
+![avator](pic/013.png)

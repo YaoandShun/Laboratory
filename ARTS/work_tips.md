@@ -5,7 +5,8 @@
 | [「关于初识如何阅读源码」](https://istw7xze8e.feishu.cn/docs/doccnR8Rj41YRCRSI9VtcJaoICc#xxYuD2) |       | ✅week19 | 001  |
 | [关于数据库范式的体会](#✅week20-002)                         |       | ✅week20 | 002  |
 | [python, json max size, mardown](#✅week21-003)               |       | ✅week21 | 003  |
-| [python, json max size, mardown](#✅week22-004)               |       | ✅week22 | 004  |
+| [ Json 格式化校验, 防止字典键值对不存在,  Navicat 如何查看 外键](#✅week22-004) |       | ✅week22 | 004  |
+|                                                              |       | ✅week23 | 005  |
 
 
 
@@ -208,3 +209,24 @@ https://www.runoob.com/python/python-dictionary.html
 
 https://stackoverflow.com/questions/9748698/table-relations-in-navicat
 ![avator](pic/013.png)
+
+
+
+
+
+
+
+## ✅week24-005
+
+### 如果 github 私有库显示找不到库
+
+> https://github.community/t/fatal-repository-not-found/1180
+
+
+
+git remote set-url origin https://xxxusername@github.com/aceofwings/RotairERP.git
+
+试着重新关联地址，然后加上你的github 名，因为 私有库 有权限
+
+git remote set-url origin https://username@github.com/xxx/xxx.git
+

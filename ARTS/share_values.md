@@ -2,12 +2,13 @@
 
 
 
-| Title                                               | MyCode                                                       | Week    | 序号 |
-| --------------------------------------------------- | ------------------------------------------------------------ | ------- | ---- |
-| 本机IP地址、127.0.0.1和0.0.0.0的区别                | https://istw7xze8e.feishu.cn/docs/doccnfWgkJJOFghl2X35WMsSlRh | ✅week19 | 001  |
-| 认证 (authentication) 和授权 (authorization) 的区别 | https://istw7xze8e.feishu.cn/docs/doccnfWgkJJOFghl2X35WMsSlRh#wL9veE | ✅week20 | 002  |
-| 如何掌握所有的程序语言                              | [如何掌握所有的程序语言](http://www.yinwang.org/blog-cn/2017/07/06/master-pl) | ✅week21 | 003  |
-| 编辑器与IDE                                         | http://www.yinwang.org/blog-cn/2013/04/20/editor-ide         | ✅week22 | 004  |
+| Title                                                        | MyCode                                                       | Week    | 序号 |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------- | ---- |
+| 本机IP地址、127.0.0.1和0.0.0.0的区别                         | https://istw7xze8e.feishu.cn/docs/doccnfWgkJJOFghl2X35WMsSlRh | ✅week19 | 001  |
+| 认证 (authentication) 和授权 (authorization) 的区别          | https://istw7xze8e.feishu.cn/docs/doccnfWgkJJOFghl2X35WMsSlRh#wL9veE | ✅week20 | 002  |
+| 如何掌握所有的程序语言                                       | [如何掌握所有的程序语言](http://www.yinwang.org/blog-cn/2017/07/06/master-pl) | ✅week21 | 003  |
+| 编辑器与IDE                                                  | http://www.yinwang.org/blog-cn/2013/04/20/editor-ide         | ✅week22 | 004  |
+| [雷军：创业第一课](https://www.youtube.com/watch?v=cZgTCsOYaHI&list=PLTwuZpOIOsIRl6mEDW6_oeRi-mXR2rth3&index=3&ab_channel=%E8%81%8A%E8%81%8ATalkTalk) |                                                              | ✅week23 | 005  |
 
 
 
@@ -32,4 +33,26 @@ AST - Abstract syntax tree
 > https://juejin.cn/post/6844904035271573511
 
 
+
+
+
+
+
+## 雷军：创业第一课
+
+[视频链接](https://www.youtube.com/watch?v=cZgTCsOYaHI&list=PLTwuZpOIOsIRl6mEDW6_oeRi-mXR2rth3&index=3&ab_channel=%E8%81%8A%E8%81%8ATalkTalk)
+
+标题取得唬人，说什么创业第一课，但是里面的内容都是真的实实在在的干货，雷军踏踏实实像一个老大哥真诚的分享，全程没有吹牛逼，看的都是肺腑之言。
+
+分别是两大部分交集
+
+1. 雷军的商业经历
+2. 雷军的做事经验
+
+
+
+通篇如果只能记住几个字，主要是了两个词
+
+1. 做事踏实
+2. 建立自己的信誉
 

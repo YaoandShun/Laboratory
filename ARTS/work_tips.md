@@ -6,7 +6,7 @@
 | [关于数据库范式的体会](#✅week20-002)                         |       | ✅week20 | 002  |
 | [python, json max size, mardown](#✅week21-003)               |       | ✅week21 | 003  |
 | [ Json 格式化校验, 防止字典键值对不存在,  Navicat 如何查看 外键](#✅week22-004) |       | ✅week22 | 004  |
-|                                                              |       | ✅week23 | 005  |
+| 如果 github 私有库显示找不到库                               |       | ✅week23 | 005  |
 
 
 

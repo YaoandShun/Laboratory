@@ -1,4 +1,12 @@
-# 2021
+# 2021-更新会迁移到在线文档
+
+## catelog
+
+link：[飞书地址](https://istw7xze8e.feishu.cn/docs/doccn4zj90mlKbxqpy3QOBYnPHc)
+
+
+
+
 
 | Title                                                        | empty | Week    | 序号 |
 | ------------------------------------------------------------ | ----- | ------- | ---- |
@@ -7,6 +15,7 @@
 | [python, json max size, mardown](#✅week21-003)               |       | ✅week21 | 003  |
 | [ Json 格式化校验, 防止字典键值对不存在,  Navicat 如何查看 外键](#✅week22-004) |       | ✅week22 | 004  |
 | 如果 github 私有库显示找不到库                               |       | ✅week23 | 005  |
+| [postgre sql 不能启动的问题](https://istw7xze8e.feishu.cn/docs/doccn4zj90mlKbxqpy3QOBYnPHc), 查看硬盘读取，timemachine 解除限速 |       | ✅week24 | 006  |
 
 
 
@@ -216,7 +225,7 @@ https://stackoverflow.com/questions/9748698/table-relations-in-navicat
 
 
 
-## ✅week24-005
+## ✅week23-005
 
 ### 如果 github 私有库显示找不到库
 
@@ -229,4 +238,12 @@ git remote set-url origin https://xxxusername@github.com/aceofwings/RotairERP.gi
 试着重新关联地址，然后加上你的github 名，因为 私有库 有权限
 
 git remote set-url origin https://username@github.com/xxx/xxx.git
+
+
+
+
+
+## ✅week24-006
+
+[飞书在线文档地址](https://istw7xze8e.feishu.cn/docs/doccn4zj90mlKbxqpy3QOBYnPHc)
 

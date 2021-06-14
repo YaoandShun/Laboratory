@@ -7,8 +7,9 @@
 | 本机IP地址、127.0.0.1和0.0.0.0的区别                         | https://istw7xze8e.feishu.cn/docs/doccnfWgkJJOFghl2X35WMsSlRh | ✅week19 | 001  |
 | 认证 (authentication) 和授权 (authorization) 的区别          | https://istw7xze8e.feishu.cn/docs/doccnfWgkJJOFghl2X35WMsSlRh#wL9veE | ✅week20 | 002  |
 | 如何掌握所有的程序语言                                       | [如何掌握所有的程序语言](http://www.yinwang.org/blog-cn/2017/07/06/master-pl) | ✅week21 | 003  |
-| 编辑器与IDE                                                  | http://www.yinwang.org/blog-cn/2013/04/20/editor-ide         | ✅week22 | 004  |
+| [编辑器与IDE](http://www.yinwang.org/blog-cn/2013/04/20/editor-ide) |                                                              | ✅week22 | 004  |
 | [雷军：创业第一课](https://www.youtube.com/watch?v=cZgTCsOYaHI&list=PLTwuZpOIOsIRl6mEDW6_oeRi-mXR2rth3&index=3&ab_channel=%E8%81%8A%E8%81%8ATalkTalk) |                                                              | ✅week23 | 005  |
+| [英语学习的一些经验](http://www.yinwang.org/blog-cn/2020/03/06/english-learning-tips) |                                                              | ✅week24 | 006  |
 
 
 
@@ -38,7 +39,7 @@ AST - Abstract syntax tree
 
 
 
-## 雷军：创业第一课
+## 5. 雷军：创业第一课
 
 [视频链接](https://www.youtube.com/watch?v=cZgTCsOYaHI&list=PLTwuZpOIOsIRl6mEDW6_oeRi-mXR2rth3&index=3&ab_channel=%E8%81%8A%E8%81%8ATalkTalk)
 
@@ -55,4 +56,18 @@ AST - Abstract syntax tree
 
 1. 做事踏实
 2. 建立自己的信誉
+
+
+
+---
+
+## 6. [英语学习的一些经验](http://www.yinwang.org/blog-cn/2020/03/06/english-learning-tips)
+
+1. 先理解句子架构 - 把句子当函数，架构就是方法体
+2. 语法和句子结构才是关键 - 词汇量其次
+3. 记单词用小本子记下来，不要用手机，不认识就多看看小本子
+4. 可以把专业术语 就是标记成 专业术语「」直角括号标记可以
+5. 用牛津字典
+
+
 

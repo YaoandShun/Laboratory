@@ -16,6 +16,9 @@ link：[飞书地址](https://istw7xze8e.feishu.cn/docs/doccn4zj90mlKbxqpy3QOBYn
 | [ Json 格式化校验, 防止字典键值对不存在,  Navicat 如何查看 外键](#✅week22-004) |       | ✅week22 | 004  |
 | 如果 github 私有库显示找不到库                               |       | ✅week23 | 005  |
 | [postgre sql 不能启动的问题](https://istw7xze8e.feishu.cn/docs/doccn4zj90mlKbxqpy3QOBYnPHc), 查看硬盘读取，timemachine 解除限速 |       | ✅week24 | 006  |
+| [1. 撰写接口经验-2，2. 关于删除数据库对象 3. 关于「测试」4. 关于「复杂数据查询」和「统计」5. 表驱动设计 - 「代码大全」](https://istw7xze8e.feishu.cn/docs/doccn4zj90mlKbxqpy3QOBYnPHc#a1u4L2) |       | ✅week24 | 007  |
+|                                                              |       |         |      |
+|                                                              |       |         |      |
 
 
 

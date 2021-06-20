@@ -2,13 +2,17 @@
 
 ## catalog
 
-| Title                                                        | empty                         | Week    | 序号 |
-| ------------------------------------------------------------ | ----------------------------- | ------- | ---- |
-| [3 Tools to Track and Visualize the Execution of your Python Code](https://towardsdatascience.com/3-tools-to-track-and-visualize-the-execution-of-your-python-code-666a153e435e) |                               | ✅week19 | 001  |
-| [A Beginner-Friendly Introduction to Containers, VMs and Docker](https://medium.com/free-code-camp/a-beginner-friendly-introduction-to-containers-vms-and-docker-79a9e3e119b) | 目前阅读速度：英语母语的 1/12 | ✅week20 | 002  |
-| [docker-getting started](https://docs.docker.com/get-started/) |                               | ✅week21 | 003  |
-| [Part 2: Sample application](https://docs.docker.com/get-started/02_our_app/) |                               | ✅week23 | 004  |
-| [Part3: Update the application](https://docs.docker.com/get-started/03_updating_app/) | week24(30min)--005            | ✅week24 | 005  |
+| Title                                                        | empty                                                        | Week    | 序号 |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------- | ---- |
+| [3 Tools to Track and Visualize the Execution of your Python Code](https://towardsdatascience.com/3-tools-to-track-and-visualize-the-execution-of-your-python-code-666a153e435e) |                                                              | ✅week19 | 001  |
+| [A Beginner-Friendly Introduction to Containers, VMs and Docker](https://medium.com/free-code-camp/a-beginner-friendly-introduction-to-containers-vms-and-docker-79a9e3e119b) | 目前阅读速度：英语母语的 1/12                                | ✅week20 | 002  |
+| [docker-getting started](https://docs.docker.com/get-started/) |                                                              | ✅week21 | 003  |
+| [Part 2: Sample application](https://docs.docker.com/get-started/02_our_app/) |                                                              | ✅week23 | 004  |
+| [Part3: Update the application](https://docs.docker.com/get-started/03_updating_app/) | week24(30min)--005                                           | ✅week24 | 005  |
+| [Part4: Share the application](https://docs.docker.com/get-started/04_sharing_app/) | [飞书文档](https://istw7xze8e.feishu.cn/docs/doccnP3XIbxpnbEVoaTAwY40ZWg) | ✅week25 | 006  |
+|                                                              |                                                              |         |      |
+|                                                              |                                                              |         |      |
+|                                                              |                                                              |         |      |
 
 
 
@@ -216,4 +220,16 @@ While we were able to build an update, there were two things you might have noti
 - There were *a lot* of steps involved for such a small change. In an upcoming section, we’ll talk about how to see code updates without needing to rebuild and start a new container every time we make a change.
 
 Before talking about persistence, we’ll quickly see how to share these images with others.
+
+
+
+
+
+---
+
+
+
+## ... Transit to 飞书文档
+
+[飞书文档](https://istw7xze8e.feishu.cn/docs/doccnP3XIbxpnbEVoaTAwY40ZWg)
 

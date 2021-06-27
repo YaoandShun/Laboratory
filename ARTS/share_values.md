@@ -10,8 +10,8 @@
 | [编辑器与IDE](http://www.yinwang.org/blog-cn/2013/04/20/editor-ide) |        | ✅week22 | 004  |
 | [雷军：创业第一课](https://www.youtube.com/watch?v=cZgTCsOYaHI&list=PLTwuZpOIOsIRl6mEDW6_oeRi-mXR2rth3&index=3&ab_channel=%E8%81%8A%E8%81%8ATalkTalk) |        | ✅week23 | 005  |
 | [英语学习的一些经验](http://www.yinwang.org/blog-cn/2020/03/06/english-learning-tips) |        | ✅week24 | 006  |
-| [对智商的怀疑](http://www.yinwang.org/blog-cn/2020/03/23/wisdom-of-intelligence) |        | 🆚       |      |
-|                                                              |        |         |      |
+| [对智商的怀疑](http://www.yinwang.org/blog-cn/2020/03/23/wisdom-of-intelligence) |        | ✅week25 | 007  |
+| [大提琴为什么这么难学](http://www.yinwang.org/blog-cn/2021/04/16/cello-technique) |        | ✅week26 | 008  |
 
 
 
@@ -127,3 +127,16 @@ AST - Abstract syntax tree
 1. 再也不要在乎智商
 2. 「聪明」不等价于「思考很快」
 3. 永远保持质疑，多亲身去调研
+
+
+
+
+
+
+
+## 8. [大提琴为什么这么难学](http://www.yinwang.org/blog-cn/2021/04/16/cello-technique)
+
+1. 本质操作的目的 - 反推你的姿态
+2. 有些东西更好的是 模仿教学
+3. 「很多人说这个曲目很难，要记住乐谱都不容易。我从来没有相信他们，自己一点一点在练，现在已经可以用 LinnStrument 把它奏出来，不知不觉把乐谱完整地记下来了。这靠的不是努力，不是脑力，而是兴趣和喜爱。」
+

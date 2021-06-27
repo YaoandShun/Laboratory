@@ -10,7 +10,7 @@
 | [Part 2: Sample application](https://docs.docker.com/get-started/02_our_app/) |                                                              | ✅week23 | 004  |
 | [Part3: Update the application](https://docs.docker.com/get-started/03_updating_app/) | week24(30min)--005                                           | ✅week24 | 005  |
 | [Part4: Share the application](https://docs.docker.com/get-started/04_sharing_app/) | [飞书文档](https://istw7xze8e.feishu.cn/docs/doccnP3XIbxpnbEVoaTAwY40ZWg) | ✅week25 | 006  |
-|                                                              |                                                              |         |      |
+| [Part5:Persist the DB](https://docs.docker.com/get-started/05_persisting_data/) | [飞书](https://istw7xze8e.feishu.cn/docs/doccnP3XIbxpnbEVoaTAwY40ZWg#LiaNoA) |         |      |
 |                                                              |                                                              |         |      |
 |                                                              |                                                              |         |      |
 

@@ -12,6 +12,8 @@
 | [英语学习的一些经验](http://www.yinwang.org/blog-cn/2020/03/06/english-learning-tips) |        | ✅week24 | 006  |
 | [对智商的怀疑](http://www.yinwang.org/blog-cn/2020/03/23/wisdom-of-intelligence) |        | ✅week25 | 007  |
 | [大提琴为什么这么难学](http://www.yinwang.org/blog-cn/2021/04/16/cello-technique) |        | ✅week26 | 008  |
+| 9. [书籍：费曼-你干吗在乎别人怎么想]                         |        | ✅week28 | 009  |
+|                                                              |        |         |      |
 
 
 
@@ -139,4 +141,26 @@ AST - Abstract syntax tree
 1. 本质操作的目的 - 反推你的姿态
 2. 有些东西更好的是 模仿教学
 3. 「很多人说这个曲目很难，要记住乐谱都不容易。我从来没有相信他们，自己一点一点在练，现在已经可以用 LinnStrument 把它奏出来，不知不觉把乐谱完整地记下来了。这靠的不是努力，不是脑力，而是兴趣和喜爱。」
+
+
+
+
+
+
+
+
+
+## 9. [书籍：费曼-你干吗在乎别人怎么想]
+
+
+
+
+
+
+
+
+
+
+
+
 
